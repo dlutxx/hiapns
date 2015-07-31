@@ -2,7 +2,7 @@
 Simple APNs worker that pushes notifications for you
 
 # build
-go build build/hiapns.go
+    go build build/hiapns.go
 
 # run
-./hiapns -c /path/to/conf
+    ./hiapns -c /path/to/conf
