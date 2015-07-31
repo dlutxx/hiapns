@@ -1,0 +1,12 @@
+{
+    "app-production": {
+        "cert": "/path/to/cert",
+        "key": "/path/to/cert-key",
+        "env": "production"
+    },
+    "app-dev": {
+        "cert": "/path/to/cert",
+        "key": "/path/to/cert-key",
+        "env": "sandbox"
+    }
+}
